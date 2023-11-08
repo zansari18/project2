@@ -62,6 +62,7 @@ ul{
 	
 }
 ul li a{
+	display:block;
 	text-decoration:none;
 }
 .image_borders {
