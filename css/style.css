@@ -59,7 +59,13 @@ p {
 ul{
 	
 	clear:left;
-	
+}	
+ul li {
+
+	float:left;
+	position: relative;
+	right: 50%;
+	display:block;
 }
 ul li a{
 	display:block;
