@@ -59,6 +59,10 @@ p {
 ul{
 	
 	clear:left;
+	
+}
+ul li a{
+	text-decoration:none;
 }
 .image_borders {
 	border: 10px solid #6CC551;
