@@ -1,6 +1,6 @@
 body {
 	background-color:#447604;
-	color:#9FFCDF;
+	color:#014421;
 	
 }
 #directory {
@@ -59,19 +59,6 @@ p {
 ul{
 	
 	clear:left;
-}	
-ul li {
-
-	float:left;
-	position: relative;
-	right: 50%;
-	display:block;
-	color:#9FFCDF;
-}
-ul li a{
-	display:block;
-	text-decoration:none;
-	color:9FFCDF;
 }
 .image_borders {
 	border: 10px solid #6CC551;
