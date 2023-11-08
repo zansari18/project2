@@ -1,10 +1,10 @@
 body {
-	background-color:#447604;
-	color:#014421;
+	background-color:#5CDB95;
+	color:white;
 	
 }
 #directory {
-	background-color:#52AD9C;
+	background-color:#8EE4AF;
 	overflow:hidden;
 }
 #directory ul{
@@ -28,51 +28,82 @@ body {
 	display:block;
 	text-decoration:none;
 	padding:15px 20px;
-	color:#014421;
+	color:#EDF5E1;
 }
 #directory ul li a:hover{
 	
 	display:block;
 	text-decoration:none;
-	background-color:#9FFCDF;
+	background-color:#379683;
 	padding:15px 20px;
-	color:white;
+	color:#EDF5E1;
+	
+}
+
+h1{
+	color:#05386B;
+	background-color:#EDF5E1;
+	font-size:220%;
+	border: 10px solid #EDF5E1;
+	border-radius:40%;
+	padding:5px;
+	float:left;
+	clear:left;
+	
+}
+
+h2{
+	background-color:#379683;
+	clear:left;
+	border:10px solid #379683;
+	color:#05386B;
+	font-size:200%;
+	border-radius:40%;
+	padding:5px;
+	float:left;
 	
 }
 fieldset {
 	
-	background-color:#6CC551;
-}
-
-h2{
-	
 	clear:left;
-	color:#52AD9C;
+	background-color:#379683;
+	color:#EDF5E1;
+}
+fieldset ul li a{
+	float:left;
+	clear:left;
+	background-color:#379683;
+	color:#EDF5E1;
+	text-decoration:none;
+	display:block;
 }
 p {
 	
 	clear:left;
-	border:10px solid #9FFCDF;
-	background-color: #9FFCDF;
+	border:10px solid #5CDB95;
+	background-color: #5CDB95;
+	font-size:140%;
 	
 }
 ul{
 	
 	clear:left;
 }
+
+	
 .image_borders {
-	border: 10px solid #6CC551;
+	border: 10px solid #8EE4AF;
 	border-radius:10%;
 	padding:5px;
 	float:left;
 	clear:left;
-	background-color:#6CC551;
+	background-color:#8EE4AF;
 }
 figcaption {
 	
-	border:10px solid #9FFCDF;
+	border:10px solid #8EE4AF;
 	clear:left;
-	background-color: #9FFCDF;
+	background-color: #8EE4AF;
 	border-radius:25%;
 	float:left;
 	padding:5px;
@@ -84,13 +115,13 @@ figcaption {
 }
 #music_desc a{
 	
-	color:green;
+	color:#05386B;
 	text-decoration:none;
 	list-style-type:none;
 	margin:0;
 	padding:0;
 	background-color:#9FFCDF;
-	border:10px solid #6CC551;
+	border:10px solid #8EE4AF;
 	border-radius:25%;
 }
 #music_desc a:hover {
