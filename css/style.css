@@ -70,6 +70,7 @@ ul li {
 ul li a{
 	display:block;
 	text-decoration:none;
+	color:9FFCDF;
 }
 .image_borders {
 	border: 10px solid #6CC551;
